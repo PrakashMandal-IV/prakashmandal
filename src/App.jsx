@@ -6,7 +6,6 @@ import Background from './component/Background/Background';
 import Section1 from './component/Background/Sections/Section1';
 import Section2 from './component/Background/Sections/Section2';
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
